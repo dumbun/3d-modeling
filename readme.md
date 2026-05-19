@@ -4,8 +4,8 @@ Blender version 5.1
 Addon's
    1. Mio3 UV
    2. poliigon-addon-blender
-   3. LoopTools - (https://extensions.blender.org/add-ons/looptools/)
-   4. Extra Mesh Objects - (https://extensions.blender.org/add-ons/extra-mesh-objects/) 
+   3. LoopTools - https://extensions.blender.org/add-ons/looptools/
+   4. Extra Mesh Objects - https://extensions.blender.org/add-ons/extra-mesh-objects/
 
 Usefull Websites 
 
@@ -36,4 +36,8 @@ Resolution
 TODO 
 
   1. crearte a new model 
+
+
+
+
   
